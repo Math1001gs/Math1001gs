@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Systems Developer & Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student+UFV;Systems+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Systems+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science student at **UFV**
-- 💻 Focused on systems development, data structures, and **C** programming
+- 💻 Focused on systems development and data structures
 - 🔍 Interested in information security and AI security
 - 🌱 Always studying algorithms and best coding practices
 

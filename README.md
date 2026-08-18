@@ -19,7 +19,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,mysql,linux,git,github,vscode" />
 </p>
 
 ---
@@ -32,5 +32,8 @@
   </a>
   <a href="https://github.com/Math1001gs" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>

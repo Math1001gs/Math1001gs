@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">texto</h3> 🚀 About Me
+<h3 align="center">🚀 About Me</h3>
 
 - 🎓 Computer Science student at **UFV**
 - 🔍 Interested in information security and AI security
@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="center">texto</h3> 💻 Tech Stack
+<h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,mysql,linux,git,github,vscode" />
@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="center">texto</h3> 🤝 Connect
+<h3 align="center">🤝 Connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-gon%C3%A7alves-santosss/" target="_blank">

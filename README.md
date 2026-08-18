@@ -1,9 +1,10 @@
 # Hi, I'm Matheus 👋
 
-Computer Science student (UFV – Florestal Campus and Estácio – ADS), currently in the 3rd of 9 semesters.
+Computer Science student UFV
+Systems Developer and Analyst
 
-- 🔭 Interested in cybersecurity and AI security
-- 🌱 Studying data structures, computer architecture, and C programming
+- Interested in cybersecurity and AI security
+- Studying data structures, computer architecture, and C programming
 
 ## Languages & Tools
 
@@ -11,4 +12,4 @@ Computer Science student (UFV – Florestal Campus and Estácio – ADS), curren
 
 ## Contact
 
-- LinkedIn: (add your link here)
+- LinkedIn: https://www.linkedin.com/in/matheus-gon%C3%A7alves-santosss/

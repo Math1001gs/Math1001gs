@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">🚀 About Me</h3>
+<h2 align="center">🚀 About Me</h3>
 
 - 🎓 Computer Science student at **UFV**
 - 🔍 Interested in information security and AI security

@@ -1,15 +1,14 @@
-# Olá, eu sou o Matheus 👋
+# Hi, I'm Matheus 👋
 
-Estudante de Ciência da Computação (UFV – Campus Florestal e Estácio – ADS), atualmente no 3º de 9 semestres.
+Computer Science student (UFV – Florestal Campus and Estácio – ADS), currently in the 3rd of 9 semesters.
 
-- 🔭 Interesse em cybersecurity e AI security
-- 🌱 Estudando estrutura de dados, arquitetura de computadores e programação em C
-- ⚽ Nas horas vagas, jogo futsal
+- 🔭 Interested in cybersecurity and AI security
+- 🌱 Studying data structures, computer architecture, and C programming
 
-## Linguagens e ferramentas
+## Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=c,python,java,linux,git,github,vscode" />
 
-## Contato
+## Contact
 
-- LinkedIn: (adicione seu link aqui)
+- LinkedIn: (add your link here)

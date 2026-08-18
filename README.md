@@ -33,7 +33,7 @@
   <a href="https://github.com/Math1001gs" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="mailto:matheus.santos4@ufv.br" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>

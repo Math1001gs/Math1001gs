@@ -10,8 +10,8 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science student at **UFV**
-- 💻 Focused on systems development and data structures
 - 🔍 Interested in information security and AI security
+- 💻 Focused on systems development and data structures
 - 🌱 Always studying algorithms and best coding practices
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-gon%C3%A7alves-santosss/" target="_blank">
